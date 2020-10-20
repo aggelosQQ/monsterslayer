@@ -1,6 +1,6 @@
 ## Monster Slayer
 ---
-#### Live version: https://aggelosqq.com/games/attack
+#### Live version: https://aggelosqq.github.io/games/attack
 ---
 
 #### About
